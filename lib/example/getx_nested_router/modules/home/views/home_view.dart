@@ -7,7 +7,7 @@ import 'package:flutter_starter/example/getx_nested_router/modules/sub_tabs_nest
 import 'package:flutter_starter/example/getx_nested_router/routes/app_pages.dart';
 import 'package:get/get.dart';
 
-import 'package:flutter_starter/constants.dart';
+import 'package:flutter_starter/example/getx_nested_router/constants.dart';
 
 import '../controllers/home_controller.dart';
 

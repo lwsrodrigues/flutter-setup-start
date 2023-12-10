@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_starter/constants.dart';
+import 'package:flutter_starter/example/getx_nested_router/constants.dart';
 
 import 'package:get/get.dart';
 

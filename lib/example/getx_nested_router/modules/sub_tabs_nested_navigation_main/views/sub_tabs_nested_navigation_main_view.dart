@@ -11,7 +11,7 @@ import 'package:flutter_starter/example/getx_nested_router/routes/app_pages.dart
 import 'package:get/get.dart';
 import '../controllers/sub_tabs_nested_navigation_main_controller.dart';
 
-import 'package:flutter_starter/constants.dart';
+import 'package:flutter_starter/example/getx_nested_router/constants.dart';
 
 class SubTabsNestedNavigationMainView extends GetView<SubTabsNestedNavigationMainController> {
   @override

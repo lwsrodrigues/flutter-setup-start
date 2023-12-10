@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_starter/example/getx_nested_router/routes/app_pages.dart';
 import 'package:get/get.dart';
 
-import 'package:flutter_starter/constants.dart';
+import 'package:flutter_starter/example/getx_nested_router/constants.dart';
 
 import '../controllers/sub_tabs_nested_navigation_laptops_main_page_controller.dart';
 

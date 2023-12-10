@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_starter/views/neutrophil/home.dart';
 
 import 'package:get/get.dart';
-
 
 void main() {
   //NOTE: custom Error Page
@@ -9,8 +9,10 @@ void main() {
   //   return const Material();
   // };
 
-  //NOTE: getx nested router startup  
+  //NOTE: getx nested router startup
   // runApp(const AppGetXNestedRouter());
+  // runApp(const LayoutExample());
+
   runApp(const MyApp());
 }
 
@@ -19,9 +21,21 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const GetMaterialApp(
-      title: 'Flutter starter',
-    );
+    return GetMaterialApp(
+        debugShowCheckedModeBanner: false,
+        title: 'Flutter starter',
+        initialRoute: '/',
+        getPages: [
+          GetPage(
+            name: '/',
+            page: () => const HomeNeutrophil(),
+          ),
+        
+        ],
+        defaultTransition: Transition.cupertino
+        //    initialRoute: AppPages.INITIAL,
+        // getPages: AppPages.routes,
+        // defaultTransition: Transition.fadeIn,
+        );
   }
 }
-

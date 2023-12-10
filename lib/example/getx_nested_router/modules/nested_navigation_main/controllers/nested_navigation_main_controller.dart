@@ -1,5 +1,5 @@
 
-import 'package:flutter_starter/constants.dart';
+import 'package:flutter_starter/example/getx_nested_router/constants.dart';
 import 'package:flutter_starter/example/getx_nested_router/routes/app_pages.dart';
 import 'package:get/get.dart';
 
