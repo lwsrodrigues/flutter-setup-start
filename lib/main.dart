@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_starter/views/neutrophil/home.dart';
+import 'package:flutter_starter/views/neumorphic/home.dart';
 
 import 'package:get/get.dart';
 
