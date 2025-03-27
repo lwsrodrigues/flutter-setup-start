@@ -1,22 +1,17 @@
-# flutter_starter
+# 🚀 Flutter Starter  
 
-A new Flutter project.
+Um novo projeto Flutter.  
 
-## Getting Started
+## 📌 Introdução  
+Este projeto serve como um ponto de partida para o desenvolvimento de aplicativos Flutter.  
 
-This project is a starting point for a Flutter application.
+### Recursos úteis para começar:  
+- [Lab: Escreva seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)  
+- [Cookbook: Exemplos úteis de Flutter](https://docs.flutter.dev/cookbook)  
 
-A few resources to get you started if this is your first Flutter project:
+Para obter ajuda no desenvolvimento com Flutter, acesse a [documentação oficial](https://docs.flutter.dev/), que oferece tutoriais, exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-# Starter build size
-√  Built build\app\outputs\flutter-apk\app-armeabi-v7a-release.apk (5.8MB).
-√  Built build\app\outputs\flutter-apk\app-arm64-v8a-release.apk (6.4MB).
-√  Built build\app\outputs\flutter-apk\app-x86_64-release.apk (6.5MB).
+## 🛠️ Tamanho da Build Inicial  
+- **APK armeabi-v7a** (processadores ARM de 32 bits): **5.8MB**  
+- **APK arm64-v8a** (processadores ARM de 64 bits): **6.4MB**  
+- **APK x86_64** (arquitetura de 64 bits para emuladores): **6.5MB**  
